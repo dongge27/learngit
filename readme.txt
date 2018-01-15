@@ -6,3 +6,4 @@ Creating a new branch is quick.
 再测试一下branch
 再试试
 Creating a new branch is quick and simple.
+add a new commit
